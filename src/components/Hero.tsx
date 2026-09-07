@@ -16,7 +16,7 @@ export const Hero: React.FC<HeroProps> = ({ settings }) => {
       {/* Background Image with Cinematic Slow Zoom */}
       <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none">
         <motion.img
-          src={settings.hero_image || '/sip_cafe_storefront.jpg'}
+          src={settings.hero_image || './sip_cafe_storefront.jpg'}
           alt="Sip Cafe Pipalbot Kathmandu Storefront"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover object-center scale-105"

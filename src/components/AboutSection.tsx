@@ -42,7 +42,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ settings }) => {
                 className="rounded-3xl overflow-hidden shadow-2xl border-4 border-white/60 aspect-[4/5] max-h-[540px]"
               >
                 <img
-                  src="/sip_cafe_storefront.jpg"
+                  src="./sip_cafe_storefront.jpg"
                   alt="Sip Cafe welcoming two-story storefront in Pipalbot, Kathmandu"
                   loading="lazy"
                   referrerPolicy="no-referrer"

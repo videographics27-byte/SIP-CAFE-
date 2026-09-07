@@ -415,7 +415,7 @@ export const MenuSection: React.FC<MenuSectionProps> = ({
               {/* Menu Board Image */}
               <div className="p-4 overflow-y-auto flex-1 flex flex-col items-center justify-center bg-[#0F0A06]">
                 <img
-                  src="/sip_cafe_menu_board.jpg"
+                  src="./sip_cafe_menu_board.jpg"
                   alt="SIPCAFE Original Chalkboard Menu Board"
                   className="max-h-[70vh] w-auto object-contain rounded-xl shadow-2xl border border-[#C89D5C]/20"
                 />
