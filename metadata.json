@@ -1,0 +1,6 @@
+{
+  "name": "SIP CAFE",
+  "description": "Visit Sip Cafe at Pipalbot, Kathmandu for delicious food, refreshing drinks, great coffee and a cozy cafe experience. Open every day from 7 AM to 9 PM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
